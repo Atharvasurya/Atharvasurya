@@ -3,7 +3,6 @@
 
 Web development 👨‍💻 | Full stack 👾| Wanderlust 🌎
 
-![image](https://github.com/Atharvasurya/Atharvasurya/assets/87293779/38fe86a5-5a82-47a4-85af-720dd1b32dda)
 
 
 # About me
