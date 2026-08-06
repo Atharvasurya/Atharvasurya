@@ -1,7 +1,8 @@
 
 # Hi, I'm Atharva Suryawanshi
 
-Web development 👨‍💻 | Full stack 👾| Wanderlust 🌎
+Web development 👨‍💻 | Full stack 👾| Wanderlust 🌎 | Java ☕
+
 
 
 
